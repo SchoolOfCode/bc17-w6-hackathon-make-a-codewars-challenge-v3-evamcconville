@@ -1,3 +1,5 @@
+![Best fishey boy](<Screenshot 2024-08-08 110431.png>)
+
 # Mickey Fish Fan Kata
 
 You’ve always admired Michael Fish—his calm voice, his precise forecasts. But lately, you've become convinced that there's more to his weather reports than meets the eye. Every word he says feels like a coded message, meant just for you. You’ve spent hours rewatching his broadcasts, jotting down notes, and searching for hidden meanings in his phrasing. You’re sure he’s trying to communicate something important, but you just can't crack the code.

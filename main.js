@@ -4,3 +4,8 @@
 export function decodeMichaelsMessage(mickiesForcast) {
     // your fishey function here
  }
+
+
+//  export function decodeMichaelsMessageTwo(mickiesForcast, numberArray) {
+//     // your fishey function here
+//  }

@@ -4,18 +4,23 @@ import { decodeMichaelsMessage } from "./main"
 // test('fishey test should pass', () => {  
 // })
 
-// test('first letter of one word', () => {
-//     expect(decodeMichaelsMessage("Intermittenting")).toBe('I')
+// test('returns the argument string', () => {
+//     expect(decodeMichaelsMessage("Intermittent")).toBe('Intermittent')
 // })
 
-// test('first letter of two words', () => {
-//     expect(decodeMichaelsMessage("Intermittenting gusts")).toBe('Ig')
+// test('returns the argument string as an array', () => {
+//     expect(decodeMichaelsMessage("Intermittent")).toBe(['I', 'n', 't', 'e', 'r', 'm', 'i', 't', 't', 'e', 'n', 't'])
 // })
 
-// test('first letter of long string', () => {
+// test('returns first index of string array', () => {
+//     expect(decodeMichaelsMessage("Intermittenti")).toBe('I')
+// })
+
+// test('returns first index of string array and every index after a whitesace', () => {
 //     expect(decodeMichaelsMessage("intermittent gusts near oxford. rain easing. temperatures hovering early. residents expect showers. tomorrow's radar anticipates isolated northward inland nasty gales. outlook relatively dry. expect rain")).toBe('ignoretherestrainingorder')
 // })
 
-test('first letter of another long string ', () => {
+test('first letter of a long string ', () => {
     expect(decodeMichaelsMessage("ipswich likely overcast. various expected. york outlook uncertain.")).toBe('iloveyou')
 })
+
