@@ -1,4 +1,8 @@
 <!-- Put your plan, story, and any supporting material here, you could use the help of a readme markdown generator such as [readme.so](https://readme.so/) -->
+# MVPS 
+- Return the fist letter of every word of a string - COMPLETE
+- Ensure all is lower case if string is not
+- Return the letters of a string that corraspond to the indexes in an array
 
 # PLAN
 - create plan doc
