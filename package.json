@@ -4,8 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "C:\Users\mccna\Work\Week 3\bc17-w3d1-project-beleibers-1"
   },
   "author": "School of Code",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4",
+    "vitest": "^2.0.5"
+  }
 }
