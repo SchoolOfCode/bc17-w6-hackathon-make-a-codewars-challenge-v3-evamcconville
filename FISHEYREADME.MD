@@ -1,4 +1,4 @@
-![Best fishey boy](<Screenshot 2024-08-08 110431.png>)
+![Best fishey boy](<>)
 
 # Mickey Fish Fan Kata
 
@@ -24,6 +24,9 @@ should return
 - Cd to main directory 
 
 - Open a terminal and enter:
+```
+npm install
+```
 ```
 npm run fish
 ```
